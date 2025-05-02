@@ -46,7 +46,7 @@ Azure DevOps pipeline handles:
 
 ## 📊 Architecture Diagram
 
-![Azure DevOps Architecture](diagram/architecture.png)
+![Azure DevOps Architecture](diagram/azure-devops-pipeline-graphic.png)
 
 ---
 
