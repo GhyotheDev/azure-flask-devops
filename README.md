@@ -55,6 +55,12 @@ Azure DevOps pipeline handles:
 A screenshot of the running Flask application (localhost or mockup) is included to demonstrate UI output for portfolio use.
 
 ---
+🏁 Future Improvements
+Add integration with Azure Monitor
+
+Configure staging slot deployment
+
+Add unit test pipeline stage
 
 ## 🚀 How to Use
 
