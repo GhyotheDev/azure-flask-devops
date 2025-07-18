@@ -4,7 +4,7 @@ This project demonstrates a simplified end-to-end DevOps pipeline on Azure using
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Showcase Azure DevOps CI/CD pipelines
 - Use Infrastructure-as-Code (IaC) to provision resources
@@ -25,7 +25,7 @@ This project demonstrates a simplified end-to-end DevOps pipeline on Azure using
 
 ---
 
-## 📦 Project Components
+##  Project Components
 
 ### Application
 A minimal Flask app located in the `app/` folder. It’s packaged in a Docker container.
@@ -44,27 +44,27 @@ Azure DevOps pipeline handles:
 
 ---
 
-## 📊 Architecture Diagram
+## Architecture Diagram
 
 ![Azure DevOps Architecture](diagram/azure-devops-pipeline-graphic.png)
 
 ---
 
-## 📷 Portfolio Screenshot
+## Portfolio Screenshot
 
 A screenshot of the running Flask application (localhost or mockup) is included to demonstrate UI output for portfolio use.
 
 ---
-🏁 Future Improvements
+ Future Improvements
 Add integration with Azure Monitor
 
 Configure staging slot deployment
 
 Add unit test pipeline stage
 
-## 🚀 How to Use
+##  How to Use
 
-> ⚠️ This project is **not meant to be deployed** to avoid cloud costs.
+>  This project is **not meant to be deployed** to avoid cloud costs.
 
 However, to run locally:
 ```bash
